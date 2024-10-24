@@ -4,6 +4,8 @@
 
 This Terraform configuration is designed to set up a receiving S3 bucket and optionally enable AWS Cost and Usage Reports (CUR) by configuring the necessary IAM roles and policies. The setup ensures secure storage, replication, and access to your CUR data for analysis in a destination account.
 
+[![](we-are-technative.png)](https://www.technative.nl)
+
 ## How does it work
 
 ### First use after you clone this repository or when .pre-commit-config.yaml is updated
