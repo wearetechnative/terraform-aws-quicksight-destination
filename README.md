@@ -8,7 +8,7 @@ This Terraform configuration is designed to set up a receiving S3 bucket and opt
 
 Run `pre-commit install` to install any guardrails implemented using pre-commit.
 
-See [pre-commit installation](https://pre-commit.com/#install) on how to install pre-commit````
+See [pre-commit installation](https://pre-commit.com/#install) on how to install pre-commit
 
 ## Usage
 
@@ -36,7 +36,7 @@ module "cur_data_collection_account" {
     aws.useast1 = aws.useast1
   }
 }
-`````````
+```
 ### Example `terraform.tfvars`
 
 ```hcl
