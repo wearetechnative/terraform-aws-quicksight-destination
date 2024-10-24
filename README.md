@@ -8,9 +8,8 @@ This Terraform configuration is designed to set up a receiving S3 bucket and opt
 
 Run `pre-commit install` to install any guardrails implemented using pre-commit.
 
-See [pre-commit installation](https://pre-commit.com/#install) on how to install pre-commit
-````
-````
+See [pre-commit installation](https://pre-commit.com/#install) on how to install pre-commit````
+
 ## Usage
 
 Below is an example configuration for using this module with the necessary providers:
