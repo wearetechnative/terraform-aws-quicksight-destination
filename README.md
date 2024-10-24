@@ -1,6 +1,10 @@
 # terraform aws quicksight destination ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-quicksight-destination/tflint.yaml?style=plastic)
 
+<!-- SHIELDS -->
+
 This Terraform configuration is designed to set up a receiving S3 bucket and optionally enable AWS Cost and Usage Reports (CUR) by configuring the necessary IAM roles and policies. The setup ensures secure storage, replication, and access to your CUR data for analysis in a destination account.
+
+[![](we-are-technative.png)](https://www.technative.nl)
 
 ## How does it work
 
