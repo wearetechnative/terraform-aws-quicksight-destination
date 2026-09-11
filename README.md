@@ -1,4 +1,4 @@
-# Terraform AWS quicksight destination ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-quicksight-destination/tflint.yaml?style=plastic)
+# Terraform AWS quicksight destination ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-quicksight-destination/tflint.yaml?branch=main&style=plastic)
 
 <!-- SHIELDS -->
 
